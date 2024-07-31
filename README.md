@@ -6,7 +6,7 @@ meu nome e gabriel paiva.
 
 -estou me desenvolvendo na linguagem JavaScript
 
-### vocẽ pode entrar em contato comigo 📧
+### você pode entrar em contato comigo 📧
 
 00001116361863SP@al.educacao.sp.gov.br
 
